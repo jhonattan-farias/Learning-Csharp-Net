@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1xZaDxw8J1kca5krLh2kyfEQK/TtaFWwUmrUyYr102bd6sYgvgBaiYrBEJGuS3mmGEprJ9qxQg75oRZixv9+yg==",
+  "dgSpecHash": "t0xQcf8uizVopeEEAcmsmnVKMIMHJn2VYqnPQWJh1DSenjpsjUFB7SqEv9Vs7WdimKFEYr2kHV5v9Id+/i8IIw==",
   "success": true,
-  "projectFilePath": "/home/jhonattan/desktop/NET/NET.csproj",
+  "projectFilePath": "/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/NET.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

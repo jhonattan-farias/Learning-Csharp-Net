@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jhonattan/desktop/NET/NET.csproj": {}
+    "/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/NET.csproj": {}
   },
   "projects": {
-    "/home/jhonattan/desktop/NET/NET.csproj": {
+    "/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jhonattan/desktop/NET/NET.csproj",
+        "projectUniqueName": "/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/NET.csproj",
         "projectName": "NET",
-        "projectPath": "/home/jhonattan/desktop/NET/NET.csproj",
+        "projectPath": "/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/NET.csproj",
         "packagesPath": "/home/jhonattan/.nuget/packages/",
-        "outputPath": "/home/jhonattan/desktop/NET/obj/",
+        "outputPath": "/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jhonattan/.nuget/NuGet/NuGet.Config"

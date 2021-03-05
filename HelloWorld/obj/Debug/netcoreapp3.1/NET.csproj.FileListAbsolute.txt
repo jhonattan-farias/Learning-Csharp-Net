@@ -11,3 +11,16 @@
 /home/jhonattan/desktop/NET/obj/Debug/netcoreapp3.1/NET.dll
 /home/jhonattan/desktop/NET/obj/Debug/netcoreapp3.1/NET.pdb
 /home/jhonattan/desktop/NET/obj/Debug/netcoreapp3.1/NET.genruntimeconfig.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/bin/Debug/netcoreapp3.1/NET
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/bin/Debug/netcoreapp3.1/NET.deps.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/bin/Debug/netcoreapp3.1/NET.runtimeconfig.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/bin/Debug/netcoreapp3.1/NET.runtimeconfig.dev.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/bin/Debug/netcoreapp3.1/NET.dll
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/bin/Debug/netcoreapp3.1/NET.pdb
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/obj/Debug/netcoreapp3.1/NET.csprojAssemblyReference.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/obj/Debug/netcoreapp3.1/NET.AssemblyInfoInputs.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/obj/Debug/netcoreapp3.1/NET.AssemblyInfo.cs
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/obj/Debug/netcoreapp3.1/NET.csproj.CoreCompileInputs.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/obj/Debug/netcoreapp3.1/NET.dll
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/obj/Debug/netcoreapp3.1/NET.pdb
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/HelloWorld/obj/Debug/netcoreapp3.1/NET.genruntimeconfig.cache
