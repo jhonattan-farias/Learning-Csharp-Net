@@ -1,0 +1,13 @@
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/bin/Debug/netcoreapp3.1/array
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/bin/Debug/netcoreapp3.1/array.deps.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/bin/Debug/netcoreapp3.1/array.runtimeconfig.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/bin/Debug/netcoreapp3.1/array.runtimeconfig.dev.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/bin/Debug/netcoreapp3.1/array.dll
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/bin/Debug/netcoreapp3.1/array.pdb
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/obj/Debug/netcoreapp3.1/array.csprojAssemblyReference.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/obj/Debug/netcoreapp3.1/array.AssemblyInfoInputs.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/obj/Debug/netcoreapp3.1/array.AssemblyInfo.cs
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/obj/Debug/netcoreapp3.1/array.csproj.CoreCompileInputs.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/obj/Debug/netcoreapp3.1/array.dll
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/obj/Debug/netcoreapp3.1/array.pdb
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/array/obj/Debug/netcoreapp3.1/array.genruntimeconfig.cache
