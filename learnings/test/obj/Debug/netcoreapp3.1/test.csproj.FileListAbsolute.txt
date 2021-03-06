@@ -1,0 +1,13 @@
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/bin/Debug/netcoreapp3.1/test
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/bin/Debug/netcoreapp3.1/test.deps.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/bin/Debug/netcoreapp3.1/test.dll
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/bin/Debug/netcoreapp3.1/test.pdb
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/obj/Debug/netcoreapp3.1/test.dll
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/obj/Debug/netcoreapp3.1/test.pdb
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
