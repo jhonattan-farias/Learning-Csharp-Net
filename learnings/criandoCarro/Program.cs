@@ -21,6 +21,7 @@ namespace criandoCarro
             Console.WriteLine("O ano é " + carro1.year);
             Console.WriteLine("E o preço do carro é " + carro1.price + " Certo?");
             Console.ReadLine();
+            Console.WriteLine(Carro.registeresCars);
         }
     }
 }
