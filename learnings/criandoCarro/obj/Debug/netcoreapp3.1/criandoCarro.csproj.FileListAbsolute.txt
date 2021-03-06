@@ -1,0 +1,13 @@
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/obj/Debug/netcoreapp3.1/criandoCarro.csprojAssemblyReference.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/obj/Debug/netcoreapp3.1/criandoCarro.AssemblyInfoInputs.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/obj/Debug/netcoreapp3.1/criandoCarro.AssemblyInfo.cs
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/obj/Debug/netcoreapp3.1/criandoCarro.csproj.CoreCompileInputs.cache
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/bin/Debug/netcoreapp3.1/criandoCarro
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/bin/Debug/netcoreapp3.1/criandoCarro.deps.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/bin/Debug/netcoreapp3.1/criandoCarro.runtimeconfig.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/bin/Debug/netcoreapp3.1/criandoCarro.runtimeconfig.dev.json
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/bin/Debug/netcoreapp3.1/criandoCarro.dll
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/bin/Debug/netcoreapp3.1/criandoCarro.pdb
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/obj/Debug/netcoreapp3.1/criandoCarro.dll
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/obj/Debug/netcoreapp3.1/criandoCarro.pdb
+/home/jhonattan/desktop/NET/Learning-Csharp-Net/learnings/criandoCarro/obj/Debug/netcoreapp3.1/criandoCarro.genruntimeconfig.cache
